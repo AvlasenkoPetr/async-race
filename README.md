@@ -1,1 +1,1 @@
-https://avlasenkopetr.github.io/art-quiz/async-race/async-race
+https://avlasenkopetr.github.io/async-race/async-race
